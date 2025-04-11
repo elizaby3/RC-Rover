@@ -10,3 +10,5 @@ First I started out with making the schematic where the ESP32 board in the middl
 ![](https://github.com/elizaby3/RC-Rover/blob/main/photos/pcb.png?raw=true)
 
 After I had finished my schematic, I routed the PCB on Kicad and used a ground fill to connect the grounds as shown above.
+
+[Link to Main Projects Page](https://elizaby3.github.io)
