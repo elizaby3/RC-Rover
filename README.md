@@ -1,5 +1,4 @@
-# RC-Rover
-
+## Main Purpose
 The goal of this project is to make a remote controlled rover from scratch. I am currently working on getting the PCB manufactured and wiring and soldering different components together.
 
 ## Current Progress
